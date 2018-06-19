@@ -1,0 +1,11 @@
+/Users/mobilefocusgroup/Documents/Codility/Playground/obj/Debug/netcoreapp2.1/Playground.csprojAssemblyReference.cache
+/Users/mobilefocusgroup/Documents/Codility/Playground/obj/Debug/netcoreapp2.1/Playground.csproj.CoreCompileInputs.cache
+/Users/mobilefocusgroup/Documents/Codility/Playground/obj/Debug/netcoreapp2.1/Playground.AssemblyInfoInputs.cache
+/Users/mobilefocusgroup/Documents/Codility/Playground/obj/Debug/netcoreapp2.1/Playground.AssemblyInfo.cs
+/Users/mobilefocusgroup/Documents/Codility/Playground/bin/Debug/netcoreapp2.1/Playground.deps.json
+/Users/mobilefocusgroup/Documents/Codility/Playground/bin/Debug/netcoreapp2.1/Playground.runtimeconfig.json
+/Users/mobilefocusgroup/Documents/Codility/Playground/bin/Debug/netcoreapp2.1/Playground.runtimeconfig.dev.json
+/Users/mobilefocusgroup/Documents/Codility/Playground/bin/Debug/netcoreapp2.1/Playground.dll
+/Users/mobilefocusgroup/Documents/Codility/Playground/bin/Debug/netcoreapp2.1/Playground.pdb
+/Users/mobilefocusgroup/Documents/Codility/Playground/obj/Debug/netcoreapp2.1/Playground.dll
+/Users/mobilefocusgroup/Documents/Codility/Playground/obj/Debug/netcoreapp2.1/Playground.pdb

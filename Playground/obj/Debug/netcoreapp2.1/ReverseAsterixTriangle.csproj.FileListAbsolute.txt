@@ -1,0 +1,11 @@
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/bin/Debug/netcoreapp2.1/ReverseAsterixTriangle.deps.json
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/bin/Debug/netcoreapp2.1/ReverseAsterixTriangle.runtimeconfig.json
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/bin/Debug/netcoreapp2.1/ReverseAsterixTriangle.runtimeconfig.dev.json
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/bin/Debug/netcoreapp2.1/ReverseAsterixTriangle.dll
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/bin/Debug/netcoreapp2.1/ReverseAsterixTriangle.pdb
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/obj/Debug/netcoreapp2.1/ReverseAsterixTriangle.csprojAssemblyReference.cache
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/obj/Debug/netcoreapp2.1/ReverseAsterixTriangle.csproj.CoreCompileInputs.cache
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/obj/Debug/netcoreapp2.1/ReverseAsterixTriangle.AssemblyInfoInputs.cache
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/obj/Debug/netcoreapp2.1/ReverseAsterixTriangle.AssemblyInfo.cs
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/obj/Debug/netcoreapp2.1/ReverseAsterixTriangle.dll
+/Users/mobilefocusgroup/Documents/Codility/ReverseAsterixTriangle/obj/Debug/netcoreapp2.1/ReverseAsterixTriangle.pdb
