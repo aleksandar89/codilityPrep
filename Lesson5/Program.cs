@@ -54,13 +54,43 @@ namespace Lesson5
             // var divide = Dividable(6, 11, 2);
             // Console.WriteLine(divide);
 
-            var P = new int[] {2, 5, 0};
-            var Q = new int[] {4, 5, 6};
-            var asd = DnaThingy("CAGCCTA", P, Q);
+            //var P = new int[] {2, 5, 0};
+            //var Q = new int[] {4, 5, 6};
+            //var asd = DnaThingy("CAGCCTA", P, Q);
 
             // for(int i = 0; i < asd.Length; i++){
             //     Console.WriteLine(asd[i]);
             // }
+
+            var array = new [] {4, 2, 2, 5, 1, 5, 8};
+            var asd = SliceAverage(array);
+        }
+
+        public static int SliceAverage(int[] A)
+        {
+            var smallestSliceAverage = double.MaxValue;
+            var smallestSliceAverageIndex = 0;
+
+            for (int i = 0; i < A.Length - 1; i++)
+            {
+                var averageTwo = (A[i] + A[i + 1]) / 2.0;
+                var averageThree = double.MaxValue;
+
+                if (i < A.Length - 1)  
+                {
+                    averageThree = (A[i] + A[i + 1] + A[i + 2]) / 3.0;
+                }
+
+                var smallerAverage = averageTwo < averageThree ? averageTwo : averageThree;
+
+                if (smallestSliceAverage > smallerAverage)
+                {
+                    smallestSliceAverage = smallerAverage;
+                    smallestSliceAverageIndex = i;
+                }
+            }
+
+            return smallestSliceAverageIndex;
         }
 
         public static int[] DnaThingy(string S, int[] P, int[] Q)
