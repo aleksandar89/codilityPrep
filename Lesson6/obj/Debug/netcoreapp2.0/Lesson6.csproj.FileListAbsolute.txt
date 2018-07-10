@@ -1,0 +1,11 @@
+C:\Projects\codilityPrep\Lesson6\bin\Debug\netcoreapp2.0\Lesson6.deps.json
+C:\Projects\codilityPrep\Lesson6\bin\Debug\netcoreapp2.0\Lesson6.runtimeconfig.json
+C:\Projects\codilityPrep\Lesson6\bin\Debug\netcoreapp2.0\Lesson6.runtimeconfig.dev.json
+C:\Projects\codilityPrep\Lesson6\bin\Debug\netcoreapp2.0\Lesson6.dll
+C:\Projects\codilityPrep\Lesson6\bin\Debug\netcoreapp2.0\Lesson6.pdb
+C:\Projects\codilityPrep\Lesson6\obj\Debug\netcoreapp2.0\Lesson6.csprojResolveAssemblyReference.cache
+C:\Projects\codilityPrep\Lesson6\obj\Debug\netcoreapp2.0\Lesson6.csproj.CoreCompileInputs.cache
+C:\Projects\codilityPrep\Lesson6\obj\Debug\netcoreapp2.0\Lesson6.AssemblyInfoInputs.cache
+C:\Projects\codilityPrep\Lesson6\obj\Debug\netcoreapp2.0\Lesson6.AssemblyInfo.cs
+C:\Projects\codilityPrep\Lesson6\obj\Debug\netcoreapp2.0\Lesson6.dll
+C:\Projects\codilityPrep\Lesson6\obj\Debug\netcoreapp2.0\Lesson6.pdb
