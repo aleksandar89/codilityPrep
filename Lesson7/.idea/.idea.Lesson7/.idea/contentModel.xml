@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\codilityPrep\Lesson7" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="lesson7.csproj" t="IncludeRecursive" />
+      <e p="Lesson7.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="lesson7.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\albo\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Lesson7.-1071816515.00" t="ExcludeRecursive" />
+  </component>
+</project>
